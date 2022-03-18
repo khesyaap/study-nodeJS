@@ -1,0 +1,11 @@
+{
+  "name": "01-intro",
+  "version": "1.0.0",
+  "description": "first project",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Khesya Amelia",
+  "license": "ISC"
+}
